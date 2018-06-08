@@ -203,7 +203,7 @@
 <li>9. Launch Analysisをクリックして分析結果を表示します。</li>
 <li>7. まず、P-valueの昇順でリストが表示されます。どのようなGO termが上位に来ているでしょうか。またそれらをDAVIDと比較してみましょう。</li>
 <li>8. [応用編] Viewを切り替えて、さまざまなグラフ形式で解析結果を見てみましょう。生物学的にどういうことが言えるでしょうか。</li>
-<li>9. その他のデータではどのような結果が表示されるでしょうか。<a href=gse1657_adipo_up500_geneid.txt" rel="nofollow">参考動画で使われているヒトの脂肪細胞の分化過程(GSE1657)で発現増加した上位500個の遺伝子群のEntrez Gene IDリスト</a></li></ul>
+<li>9. その他のデータではどのような結果が表示されるでしょうか。<a href="gse1657_adipo_up500_geneid.txt" rel="nofollow">参考動画で使われているヒトの脂肪細胞の分化過程(GSE1657)で発現増加した上位500個の遺伝子群のEntrez Gene IDリスト</a></li></ul>
 <hr class="full_hr" />
 
 <h3 id="content_1_14"><a id="n6fd3a54" href="" title="n6fd3a54"><span class="sanchor">_</span></a> NCBI GEOを用いたマイクロアレイデータ解析 (データの検索・生データの取得・統計解析・可視化)  </h3>
