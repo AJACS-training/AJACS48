@@ -1,4 +1,4 @@
-# 遺伝子発現DB・解析ツールの紹介　担当: <a href="https://sites.google.com/a/dbcls.rois.ac.jp/hono/" rel="nofollow">小野 浩雅</a>
+# 遺伝子発現DB・解析ツールの紹介　担当: <a href="https://sites.google.com/dbcls.rois.ac.jp/hono/" rel="nofollow">小野 浩雅</a>
 
 <p>目次</p>
 <div class="contents">
