@@ -1,12 +1,7 @@
 
-<h2>AJACS48/nakazato</h2>
+# 「次世代シーケンサー（NGS）と関連するデータベース・ツール」 担当：仲里 猛留
 
-<div class="body">
-	<div class="section">
-<p><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">「次世代シーケンサー（NGS）と関連するデータベース・ツール」</span> <span style="font-size:16px;display:inline-block;line-height:130%;text-indent:0px">担当：仲里 猛留</span></p>
-<hr class="full_hr" />
-<p><a href="http://MotDB.DBCLS.jp/?AJACS48" title="AJACS48 (1164d)">AJACS信濃</a> &gt; 「次世代シーケンサー（NGS）と関連するデータベース・ツール」</p>
-<hr class="full_hr" />
+
 <h3 id="content_1_0"><a id="ua35d9f1" href="http://MotDB.DBCLS.jp/?AJACS48%2Fnakazato#ua35d9f1" title="ua35d9f1"><span class="sanchor">_</span></a> おことわり  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>次世代シーケンシングデータのコマンドラインによる解析は今日は演習はやりません。
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>∵ 時間がない。マシンパワーとディスク容量が必要なため。データの転送に膨大な時間がかかるため。目的別に解析の方法が違う</li></ul></li>
