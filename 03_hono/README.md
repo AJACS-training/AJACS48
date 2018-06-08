@@ -137,7 +137,7 @@
 <h4 id="content_1_10"><a id="wd2c65be" href="" title="wd2c65be">_</a> マイクロアレイデータの準備  </h4>
 <p>サンプルデータとして、<a href="http://www.ncbi.nlm.nih.gov/geo/" rel="nofollow">NCBI GEO</a>より取得した公共の遺伝子発現データを用います。このデータは、ある実験の前後の2群間で有意に発現減少した遺伝子群のリストです。
 <br class="spacer" />
-→ <a href="http://motdb.dbcls.jp/?plugin=attach&amp;refer=AJACS24%2Fhono&amp;openfile=110208_IDlist.txt" rel="nofollow">マル秘遺伝子リスト</a>
+→ <a href="110208_IDlist.txt" rel="nofollow">マル秘遺伝子リスト</a>
 <br class="spacer" />
 （右クリックして「新しいタブで開く」もしくは「名前を付けてリンク先を保存」してください。）
 <br class="spacer" />
@@ -187,7 +187,7 @@
 <p><br class="spacer" /></p>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>その後、Entrez Gene ID行のみに整形したテキストファイルをPANTHERにSubmitします。
 <br class="spacer" />
-→ <a href="http://motdb.dbcls.jp/?plugin=attach&amp;pcmd=open&amp;file=affy_to_geneid.txt&amp;refer=AJACS35%2Fhono" rel="nofollow">変換済みマル秘遺伝子リスト</a>
+→ <a href="affy_to_geneid.txt" rel="nofollow">変換済みマル秘遺伝子リスト</a>
 <br class="spacer" /></li></ul>
 
 <h4 id="content_1_13"><a id="t120060f" href="" title="t120060f">_</a> 【実習3-2】PANTHERを用いて、発現データの結果を生物学的に解釈する  </h4>
@@ -203,7 +203,7 @@
 <li>9. Launch Analysisをクリックして分析結果を表示します。</li>
 <li>7. まず、P-valueの昇順でリストが表示されます。どのようなGO termが上位に来ているでしょうか。またそれらをDAVIDと比較してみましょう。</li>
 <li>8. [応用編] Viewを切り替えて、さまざまなグラフ形式で解析結果を見てみましょう。生物学的にどういうことが言えるでしょうか。</li>
-<li>9. その他のデータではどのような結果が表示されるでしょうか。<a href="http://motdb.dbcls.jp/?plugin=attach&amp;pcmd=open&amp;file=gse1657_adipo_up500_geneid.txt&amp;refer=AJACS38%2Fhono2" rel="nofollow">参考動画で使われているヒトの脂肪細胞の分化過程(GSE1657)で発現増加した上位500個の遺伝子群のEntrez Gene IDリスト</a></li></ul>
+<li>9. その他のデータではどのような結果が表示されるでしょうか。<a href=gse1657_adipo_up500_geneid.txt" rel="nofollow">参考動画で使われているヒトの脂肪細胞の分化過程(GSE1657)で発現増加した上位500個の遺伝子群のEntrez Gene IDリスト</a></li></ul>
 <hr class="full_hr" />
 
 <h3 id="content_1_14"><a id="n6fd3a54" href="" title="n6fd3a54"><span class="sanchor">_</span></a> NCBI GEOを用いたマイクロアレイデータ解析 (データの検索・生データの取得・統計解析・可視化)  </h3>
