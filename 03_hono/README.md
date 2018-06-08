@@ -7,7 +7,7 @@
 <li><a href="#eb068d9f"> 【参考】統合TV </a></li>
 <li><a href="#z1254cb8"> いざ講習、その前に </a></li>
 <li><a href="#ac44a051"> 個々の遺伝子の発現プロファイルを調べる </a>
-<ul class="list2" style="padding-left:16px;margin-left:16px"><li><a href="#s29e8caa"> RefEx?（Reference Expression dataset） </a>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li><a href="#s29e8caa"> RefEx（Reference Expression dataset） </a>
 <ul class="list3" style="padding-left:16px;margin-left:16px"><li><a href="#d71c8bae"> 【実習1】RefExを使って、組織特異的遺伝子を検索する </a></li></ul></li>
 <li><a href="#bb55f671"> BioGPS </a>
 <ul class="list3" style="padding-left:16px;margin-left:16px"><li><a href="#b7dd172e"> 【実習2】BioGPSを使ってある遺伝子の発現プロファイルを調べる </a></li></ul></li></ul></li>
@@ -156,9 +156,8 @@
 <li>8. 今回は、GOTERM_BP_FAT (BP=Biological Process)に注目します。その右の「Chart」をクリックすると結果がポップアップされます。</li>
 <li>9. P-value を2回クリックしてp-valueが小さい（統計的に有意である）順にしてみましょう … p-value小さい順は、一度やればしばらく覚えているので、次からはしばらくは必要ないです
 
-<a name="plugin_fold_anchor1"></a>
-<div class="plugin_fold_title_plus" onclick="return plugin_fold_onclick(this,event,'plugin_fold_anchor1')"><p>結果</p>
-</div>
+#### 結果
+
 <div class="plugin_fold_body"><div class="img_margin" style="text-align:left"><img src="david_go_bp.png" alt="david_go_bp.png" title="david_go_bp.png" width="989" height="833" /></a></div>
 
 </div></li>
